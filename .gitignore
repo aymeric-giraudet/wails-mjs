@@ -1,0 +1,7 @@
+.DS_STORE
+build/bin
+build/darwin
+node_modules
+frontend/.svelte-kit
+frontend/build
+frontend/wailsjs
